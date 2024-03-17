@@ -22,9 +22,9 @@
 3. Запустите Docker Compose:
 
    
-bash
+```bash
    docker-compose up -d
-   
+  ``` 
 
 ### Установка Elasticsearch Python Client
 
