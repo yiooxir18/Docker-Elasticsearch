@@ -23,7 +23,7 @@
 
    
 ```bash
-   docker-compose up -d
+docker-compose up -d
   ``` 
 
 ### Установка Elasticsearch Python Client
