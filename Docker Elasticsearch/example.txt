@@ -1,0 +1,5 @@
+Title: The Art of Programming
+
+Programming is the process of creating computer programs. This includes tasks such as analysis, generating algorithms, profiling algorithm accuracy and resource utilization, and implementing algorithms in a chosen programming language (coding).
+
+Key skills that every programmer needs include logical thinking, attention to detail, patience, the ability to work well under pressure, excellent analytical skills, the ability to learn, and an interest in technology and technical literature.
