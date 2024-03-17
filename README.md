@@ -41,7 +41,7 @@ pip install elasticsearch==7.12.1
 
 Чтобы проиндексировать текстовый файл, выполните команду:
 
-bash
+```bash
 python searchengine.py write <путькфайлу.txt>
 ```
 
@@ -51,6 +51,7 @@ python searchengine.py write <путькфайлу.txt>
 
 ```bash
 python searchengine.py read "фраза для поиска"
+```
 
 ## Настройка
 
@@ -60,7 +61,7 @@ python searchengine.py read "фраза для поиска"
 
 Создайте текстовый файл с именем `example.txt` и добавьте в него текст для индексации. Затем индексируйте его:
 
-bash
+```bash
 python searchengine.py write example.txt
 ```
 
@@ -68,3 +69,4 @@ python searchengine.py write example.txt
 
 ```bash
 python searchengine.py read "Programming"
+```
