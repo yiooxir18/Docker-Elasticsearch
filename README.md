@@ -30,8 +30,9 @@ docker-compose up -d
 
 Установите необходимый пакет клиента Elasticsearch для Python:
 
-bash
+```bash
 pip install elasticsearch==7.12.1
+```
 
 ## Использование
 
